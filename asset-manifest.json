@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/carlosescor2199.github.io/serverless-sd/static/css/main.b9a5da1d.chunk.css",
-    "main.js": "/carlosescor2199.github.io/serverless-sd/static/js/main.7f1b19b0.chunk.js",
-    "main.js.map": "/carlosescor2199.github.io/serverless-sd/static/js/main.7f1b19b0.chunk.js.map",
-    "runtime-main.js": "/carlosescor2199.github.io/serverless-sd/static/js/runtime-main.933f4702.js",
-    "runtime-main.js.map": "/carlosescor2199.github.io/serverless-sd/static/js/runtime-main.933f4702.js.map",
-    "static/css/2.d001515b.chunk.css": "/carlosescor2199.github.io/serverless-sd/static/css/2.d001515b.chunk.css",
-    "static/js/2.914ff6a0.chunk.js": "/carlosescor2199.github.io/serverless-sd/static/js/2.914ff6a0.chunk.js",
-    "static/js/2.914ff6a0.chunk.js.map": "/carlosescor2199.github.io/serverless-sd/static/js/2.914ff6a0.chunk.js.map",
-    "index.html": "/carlosescor2199.github.io/serverless-sd/index.html",
-    "static/css/2.d001515b.chunk.css.map": "/carlosescor2199.github.io/serverless-sd/static/css/2.d001515b.chunk.css.map",
-    "static/css/main.b9a5da1d.chunk.css.map": "/carlosescor2199.github.io/serverless-sd/static/css/main.b9a5da1d.chunk.css.map",
-    "static/js/2.914ff6a0.chunk.js.LICENSE.txt": "/carlosescor2199.github.io/serverless-sd/static/js/2.914ff6a0.chunk.js.LICENSE.txt"
+    "main.css": "/serverless-sd/static/css/main.b9a5da1d.chunk.css",
+    "main.js": "/serverless-sd/static/js/main.7f1b19b0.chunk.js",
+    "main.js.map": "/serverless-sd/static/js/main.7f1b19b0.chunk.js.map",
+    "runtime-main.js": "/serverless-sd/static/js/runtime-main.1bde0074.js",
+    "runtime-main.js.map": "/serverless-sd/static/js/runtime-main.1bde0074.js.map",
+    "static/css/2.d001515b.chunk.css": "/serverless-sd/static/css/2.d001515b.chunk.css",
+    "static/js/2.8f52e3e7.chunk.js": "/serverless-sd/static/js/2.8f52e3e7.chunk.js",
+    "static/js/2.8f52e3e7.chunk.js.map": "/serverless-sd/static/js/2.8f52e3e7.chunk.js.map",
+    "index.html": "/serverless-sd/index.html",
+    "static/css/2.d001515b.chunk.css.map": "/serverless-sd/static/css/2.d001515b.chunk.css.map",
+    "static/css/main.b9a5da1d.chunk.css.map": "/serverless-sd/static/css/main.b9a5da1d.chunk.css.map",
+    "static/js/2.8f52e3e7.chunk.js.LICENSE.txt": "/serverless-sd/static/js/2.8f52e3e7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.933f4702.js",
+    "static/js/runtime-main.1bde0074.js",
     "static/css/2.d001515b.chunk.css",
-    "static/js/2.914ff6a0.chunk.js",
+    "static/js/2.8f52e3e7.chunk.js",
     "static/css/main.b9a5da1d.chunk.css",
     "static/js/main.7f1b19b0.chunk.js"
   ]
