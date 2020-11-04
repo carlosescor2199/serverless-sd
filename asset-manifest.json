@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/carlosescor2199.github.io/serverless-sd/static/css/main.b9a5da1d.chunk.css",
+    "main.js": "/carlosescor2199.github.io/serverless-sd/static/js/main.7f1b19b0.chunk.js",
+    "main.js.map": "/carlosescor2199.github.io/serverless-sd/static/js/main.7f1b19b0.chunk.js.map",
+    "runtime-main.js": "/carlosescor2199.github.io/serverless-sd/static/js/runtime-main.933f4702.js",
+    "runtime-main.js.map": "/carlosescor2199.github.io/serverless-sd/static/js/runtime-main.933f4702.js.map",
+    "static/css/2.d001515b.chunk.css": "/carlosescor2199.github.io/serverless-sd/static/css/2.d001515b.chunk.css",
+    "static/js/2.914ff6a0.chunk.js": "/carlosescor2199.github.io/serverless-sd/static/js/2.914ff6a0.chunk.js",
+    "static/js/2.914ff6a0.chunk.js.map": "/carlosescor2199.github.io/serverless-sd/static/js/2.914ff6a0.chunk.js.map",
+    "index.html": "/carlosescor2199.github.io/serverless-sd/index.html",
+    "static/css/2.d001515b.chunk.css.map": "/carlosescor2199.github.io/serverless-sd/static/css/2.d001515b.chunk.css.map",
+    "static/css/main.b9a5da1d.chunk.css.map": "/carlosescor2199.github.io/serverless-sd/static/css/main.b9a5da1d.chunk.css.map",
+    "static/js/2.914ff6a0.chunk.js.LICENSE.txt": "/carlosescor2199.github.io/serverless-sd/static/js/2.914ff6a0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.933f4702.js",
+    "static/css/2.d001515b.chunk.css",
+    "static/js/2.914ff6a0.chunk.js",
+    "static/css/main.b9a5da1d.chunk.css",
+    "static/js/main.7f1b19b0.chunk.js"
+  ]
+}
